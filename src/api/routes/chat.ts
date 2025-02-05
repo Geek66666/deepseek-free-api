@@ -10,7 +10,7 @@ const DEEP_SEEK_CHAT_AUTHORIZATION = process.env.DEEP_SEEK_CHAT_AUTHORIZATION;
 
 export default {
 
-    prefix: '/v1/chat',
+    prefix: '/hf/v1/chat',
 
     post: {
 
